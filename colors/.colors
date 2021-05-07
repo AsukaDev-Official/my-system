@@ -1,0 +1,13 @@
+#============[ colorama ]=============
+colorama.init()
+hijau = colorama.Fore.GREEN
+abu = colorama.Fore.LIGHTBLACK_EX
+merah = colorama.Fore.RED
+kuning = colorama.Fore.YELLOW
+reset = colorama.Fore.RESET
+#==========[ end colorama ]===========
+
+#==========[ colors code ]============
+bgwhite = "\033[1;47m"
+end = "\033[0m"
+#=========[ end colors code ]=========
