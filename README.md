@@ -9,7 +9,7 @@ program to check your system information
 
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
 
-     <img alt="AsukaDev-Official/my-system" height="60%" width="100%" src="Screenshot_20210502-200110680.jpg"/>
+     <img alt="AsukaDev-Official/my-system" height="60%" width="100%" src="Screenshot_20210507-235139401.jpg"/>
 
   </a>
 
